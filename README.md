@@ -30,7 +30,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Microsoft](https://img.shields.io/badge/-Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=ff6600)
 
----
+<!---
 
 <h2> 📊 &nbsp;Profile Stats</h2>
 
@@ -44,6 +44,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MarcWiebusch&hide=stars,issues&count_private=true&show_icons=true"/>
   </a>
 </div>
+
+--->
 
 ---
 
