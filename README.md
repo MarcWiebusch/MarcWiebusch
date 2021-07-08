@@ -21,9 +21,7 @@
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown&logoColor=000000)
 - 🖥 &nbsp;
   ![Apple](https://img.shields.io/badge/-Mac-333333?style=flat&logo=apple)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=00bfff)
