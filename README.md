@@ -23,8 +23,8 @@
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🖥 &nbsp;
-  ![Apple](https://img.shields.io/badge/-Mac-333333?style=flat&logo=apple)
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=00bfff)
+  ![Apple](https://img.shields.io/badge/-Mac-333333?style=flat&logo=apple)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Microsoft](https://img.shields.io/badge/-Microsoft_Office-333333?style=flat&logo=microsoft-office&logoColor=ff6600)
 
